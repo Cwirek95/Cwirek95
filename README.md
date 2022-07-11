@@ -4,7 +4,7 @@ I'm a software developer and I specializes in application development in ASP.NET
 
 
 Contact with me:<br>
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=linkedin.com/in/andrzej-ćwiertniak-155221238)](https://www.linkedin.com/in/andrzej-%C4%87wiertniak-155221238/)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=linkedin.com/in/andrzej-ćwiertniak-155221238)](https://www.linkedin.com/in/andrzej-cwiertniak/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:acwiertniak95@gmail.com)](mailto:acwiertniak95@gmail.com)
 
 ## 🔧 Technologies
