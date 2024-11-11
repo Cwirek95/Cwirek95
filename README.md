@@ -16,16 +16,12 @@
 
 ## 👨 About Me:
 <br />
-I am deeply passionate about software development, specializing in applications created using ASP .NET Core. Holding a degree from the Poznan University of Technology in the Faculty of Computing and Telecommunications, I have honed my skills in creating robust and efficient software solutions. What truly exhilarates me about being part of the tech industry is the opportunity to design and develop innovative solutions that serve a purpose and tackle real-world challenges head-on.
+I am a software enthusiast and a graduate of Computer Science at the Poznan University of Technology. Currently, I work as a .NET Developer, but my full-stack interests extend to Angular and exploring new technologies such as Rust and Web3.
 
 <br />
 <br />
 
-My journey in software development has equipped me with a keen eye for detail and a strong problem-solving mindset. Constantly staying on top of the latest developments in the industry, I thrive on learning and adapting to emerging technologies. Whether it is exploring new frameworks, mastering programming languages, or embracing new methodologies, I am always eager to expand my knowledge and skill set.
-
-<br />
-
-In addition to my technical skills, I am also deeply committed to personal and professional growth. Whether through attending workshops, pursuing certifications, or engaging in community events, I am dedicated to refining my craft and staying at the forefront of the ever-evolving tech landscape.
+A dedicated fan of Domain Driven Design (DDD) and Test Driven Design (TDD), I am continually deepening my knowledge in these areas to build high-quality, sustainable software. I find these approaches invaluable for creating systems that are flexible, maintainable, and aligned with the business domain.
 <br />
 <br />
 
@@ -46,9 +42,9 @@ In addition to my technical skills, I am also deeply committed to personal and p
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
-
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 
